@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ifedaniel
 - 👀 I’m interested in learning frontend development
-- I am finding it to difficult to use this thing called Github, Can anyone help me, please? Thank you
-- 🌱 I’m currently learning web design on freecodecamp. Is there a better free alternative?
+- I am new on GitHub
+- 🌱 I’m currently learning web development on freecodecamp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
